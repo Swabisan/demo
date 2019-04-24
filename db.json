@@ -1,19 +1,18 @@
 {
-  "Tournaments": [
-    {
-      name: 'The San Francisco Classic',
-      picture: 'url',
-      background: 'url'
-    },
-    {
-      name: 'Bezerkely Rumble',
-      picture: 'url',
-      background: 'url'
-    },
-    {
-      name: `Chad's House`,
-      picture: 'url',
-      background: 'url'
-    }
-  ]
+	"Tournaments": [{
+			"name": "San Francisco Classic",
+			"picture": "url",
+			"background": "background"
+		},
+		{
+			"name": "California State Something",
+			"picture": "url",
+			"background": "background"
+		},
+		{
+			"name": "Chad's House",
+			"picture": "url",
+			"background": "background"
+		}
+	]
 }
