@@ -2,8 +2,8 @@
 	"Tournaments": [{
 			"name": "San Francisco Classic",
 			"location": "San Francisco, CA",
-			"picture": "https://imgur.com/CyatTmp",
-			"background": "https://imgur.com/UosddgI"
+			"picture": "https://imgur.com/CyatTmp.png",
+			"background": "https://imgur.com/UosddgI.jpg"
 		},
 		{
 			"name": "California State Something",
