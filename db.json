@@ -1,16 +1,19 @@
 {
 	"Tournaments": [{
 			"name": "San Francisco Classic",
+			"location": "San Francisco, CA",
 			"picture": "https://imgur.com/CyatTmp",
 			"background": "https://imgur.com/UosddgI"
 		},
 		{
 			"name": "California State Something",
+			"location": "Sacramento, CA",
 			"picture": "url",
 			"background": "background"
 		},
 		{
 			"name": "Chad's House",
+			"location": "Chad's House",
 			"picture": "url",
 			"background": "background"
 		}
