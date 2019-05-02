@@ -22,7 +22,10 @@
 		"name": "The Testerinos",
 		"roster": [{
 			"name": "Michael",
-			"age": 20
+			"age": 20,
+			"weight": 170,
+			"class": 160,
+			"record": "7/2"
 		}, {
 			"name": "Mark",
 			"age": 22
