@@ -18,7 +18,7 @@
 			"background": "https://i.imgur.com/Zwv6ZqF.jpg"
 		}
 	],
-	"Coach": [{
+	"Coach/0": {
 		"roster": [{
 			"name": "Michael",
 			"age": 20
@@ -31,5 +31,5 @@
 			"opponent": "Mark",
 			"winner": "Michael"
 		}]
-	}]
+	}
 }
