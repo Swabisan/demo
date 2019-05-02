@@ -17,9 +17,19 @@
 			"picture": "https://i.imgur.com/hrOdrhr.jpg",
 			"background": "https://i.imgur.com/Zwv6ZqF.jpg"
 		}
-	]
+	],
 	"Coach": [{
-		[{"name": "Michael", "age": 20}, {"name": "Mark", "age": 22}],
-		[{"wrestler": "Michael", "opponent": "Mark", "winner": "Michael"}]
+		"roster": [{
+			"name": "Michael",
+			"age": 20
+		}, {
+			"name": "Mark",
+			"age": 22
+		}],
+		"history": [{
+			"wrestler": "Michael",
+			"opponent": "Mark",
+			"winner": "Michael"
+		}]
 	}]
 }
