@@ -19,6 +19,7 @@
 		}
 	],
 	"Coach": [{
+		"team": "The Testerinos",
 		"roster": [{
 			"name": "Michael",
 			"age": 20
