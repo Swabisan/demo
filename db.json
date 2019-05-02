@@ -18,4 +18,8 @@
 			"background": "https://i.imgur.com/Zwv6ZqF.jpg"
 		}
 	]
+	"Coach": [{
+		[{"name": "Michael", "age": 20}, {"name": "Mark", "age": 22}],
+		[{"wrestler": "Michael", "opponent": "Mark", "winner": "Michael"}]
+	}]
 }
