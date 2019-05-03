@@ -1,1 +1,44 @@
-
+{
+	"Tournaments": [{
+			"name": "San Francisco Classic",
+			"location": "San Francisco, CA",
+			"picture": "https://imgur.com/CyatTmp.png",
+			"background": "https://imgur.com/UosddgI.jpg"
+		},
+		{
+			"name": "California State Something",
+			"location": "Sacramento, CA",
+			"picture": "https://i.imgur.com/4oeUsAC.jpg",
+			"background": "https://i.imgur.com/0GTbFBA.jpg"
+		},
+		{
+			"name": "Chad's House",
+			"location": "Chad's House",
+			"picture": "https://i.imgur.com/hrOdrhr.jpg",
+			"background": "https://i.imgur.com/Zwv6ZqF.jpg"
+		}
+	],
+	"Coach": [{
+		"name": "The Testerinos",
+		"roster": [{
+			"name": "Michael",
+			"age": 20,
+			"weight": 170,
+			"class": 160,
+			"record": "7/2"
+		}, {
+			"name": "Mark",
+			"age": 22
+		}],
+		"history": [{
+			"wrestler": "Michael",
+			"opponent": "Mark",
+			"winner": "Michael"
+		}]
+	}],
+	"Teams": [
+		"The Testerinos",
+		"Team 2",
+		"Team 3"
+	]
+}
