@@ -1,4 +1,10 @@
 {
+	"Tournament": {
+			"name": "San Francisco Classic",
+			"location": "San Francisco, CA",
+			"picture": "https://imgur.com/CyatTmp.png",
+			"background": "https://imgur.com/UosddgI.jpg"
+		},
 	"Tournaments": [{
 			"name": "San Francisco Classic",
 			"location": "San Francisco, CA",
