@@ -26,18 +26,18 @@
 	],
 	"Coach": [{
 		"name": "The Testerinos",
-		"roster": {
-			"0": {
+		"roster": [
+			{
 			"name": "Michael",
 			"age": 20,
 			"weight": 170,
 			"class": 160,
 			"record": "7/2"
 		}, 
-			"1": {
+			{
 			"name": "Mark",
 			"age": 22
-		}},
+		}],
 		"history": [{
 			"wrestler": "Michael",
 			"opponent": "Mark",
