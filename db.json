@@ -1,10 +1,10 @@
 {
 	"Tournament": {
-			"name": "San Francisco Classic",
-			"location": "San Francisco, CA",
-			"picture": "https://imgur.com/CyatTmp.png",
-			"background": "https://imgur.com/UosddgI.jpg"
-		},
+		"name": "San Francisco Classic",
+		"location": "San Francisco, CA",
+		"picture": "https://imgur.com/CyatTmp.png",
+		"background": "https://imgur.com/UosddgI.jpg"
+	},
 	"Tournaments": [{
 			"name": "San Francisco Classic",
 			"location": "San Francisco, CA",
@@ -26,36 +26,36 @@
 	],
 	"Coach": [{
 		"name": "The Testerinos",
-		"roster": [
+		"roster": [{
+				"name": "Michael",
+				"age": 20,
+				"weight": 170,
+				"class": 160,
+				"record": "7/2"
+			},
 			{
-			"name": "Michael",
-			"age": 20,
-			"weight": 170,
-			"class": 160,
-			"record": "7/2"
-		}, 
+				"name": "Mark",
+				"age": 22,
+				"weight": 180,
+				"class": 180,
+				"record": "5/1"
+			},
 			{
-			"name": "Mark",
-			"age": 22,
-			"weight": 180,
-			"class": 180,
-			"record": "5/1"
-		},
-		{
-			"name": "Bob",
-			"age": 18
-		},
-		{
-			"name": "Bill",
-			"age": 19
-		},
-		{
-			"name": "Larry",
-			"age": 21,
-			"weight": 170,
-			"class": 160,
-			"record": "7/2"
-		}],
+				"name": "Bob",
+				"age": 18
+			},
+			{
+				"name": "Bill",
+				"age": 19
+			},
+			{
+				"name": "Larry",
+				"age": 21,
+				"weight": 170,
+				"class": 160,
+				"record": "7/2"
+			}
+		],
 		"history": [{
 			"wrestler": "Michael",
 			"opponent": "Mark",
